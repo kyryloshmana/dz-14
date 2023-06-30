@@ -1,0 +1,8 @@
+<suite name = "Regression test">
+    <test name = "Regression">
+        <classes>
+            <class name = "test.WebTablesTest"/>
+            <class name = "test.ButtonsPageTest"/>
+        </classes>
+    </test>
+</suite>

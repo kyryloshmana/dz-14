@@ -1,0 +1,7 @@
+utils\MainPage.class
+test\BAseTest.class
+utils\ButtonsPage.class
+test\ButtonsPageTest.class
+utils\AbstractPageObject.class
+utils\WebTables.class
+test\WebTablesTest.class
